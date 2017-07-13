@@ -1,0 +1,8 @@
+c:\Projects\lab\dotnetcorewebapi\bin\Debug\netcoreapp1.1\dotnetcorewebapi.deps.json
+c:\Projects\lab\dotnetcorewebapi\bin\Debug\netcoreapp1.1\dotnetcorewebapi.runtimeconfig.json
+c:\Projects\lab\dotnetcorewebapi\bin\Debug\netcoreapp1.1\dotnetcorewebapi.runtimeconfig.dev.json
+c:\Projects\lab\dotnetcorewebapi\bin\Debug\netcoreapp1.1\dotnetcorewebapi.dll
+c:\Projects\lab\dotnetcorewebapi\bin\Debug\netcoreapp1.1\dotnetcorewebapi.pdb
+c:\Projects\lab\dotnetcorewebapi\obj\Debug\netcoreapp1.1\dotnetcorewebapi.AssemblyInfo.cs
+c:\Projects\lab\dotnetcorewebapi\obj\Debug\netcoreapp1.1\dotnetcorewebapi.dll
+c:\Projects\lab\dotnetcorewebapi\obj\Debug\netcoreapp1.1\dotnetcorewebapi.pdb
